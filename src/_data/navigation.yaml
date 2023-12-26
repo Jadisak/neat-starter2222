@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: HOME
+    url: /
+  - text: "EVENT "
+    url: /event
+  - text: "E-BOOK "
+    url: /e-book
+  - text: CONTACT
+    url: /contact
