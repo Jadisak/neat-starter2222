@@ -1,9 +1,7 @@
 items:
   - text: HOME
     url: /
-  - text: "EVENT "
-    url: /event
-  - text: "E-BOOK "
-    url: /e-book
+  - text: ABOUT
+    url: /about
   - text: CONTACT
     url: /contact
