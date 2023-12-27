@@ -1,11 +1,13 @@
 ---
-title: Event of the Month
-description: Sing a song together
-author: Aj.Sopark
-date: 2023-12-26T14:33:54.851Z
+title: การประกันชีวิต
+description: "##### ถือว่าเป็นธุรกิจแห่งปัจจุบัน สู่อนาคตอย่างแท้จริง"
+author: วงจรชีวิต
+date: 2023-12-27T10:35:07.816Z
 tags:
   - created
 ---
-# Neat Starter
+# การประกันชีวิต
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam maiores ex, fugiat nemo officiis, aspernatur nobis animi velit aut ullam sequi optio soluta voluptatem esse. Quod deleniti tempora maxime expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam maiores ex, fugiat nemo officiis, aspernatur nobis animi velit aut ullam sequi optio soluta voluptatem esse. Quod deleniti tempora maxime expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+ถือกำเนิดในประเทศไทยมากว่า 100 ปี แต่ในปัจจุบันยังถือว่าสินค้าการประกันชีวิตยังอยู่ในช่วง 1 หรือ 2 ของวงจรชีวิตผลิตภัณฑ์เท่านั้นเอง ยังเติบโตได้อีกมากเพราะปัจจุบันคนไทยยังมีประกันชีวิตไม่ถึง 30% แสดงถึงความเข้าใจในสินค้าประกันชีวิต ที่ยังให้ความสำคัญไม่มากเท่าที่ควร จะเป็นวงจรชีวิตของสินค้า ยังมีอายุอีกยาวนานกว่าจะมีสินค้าอื่นๆ มาแทนที่ได้
+
+##### ถือว่าเป็นธุรกิจแห่งปัจจุบัน สู่อนาคตอย่างแท้จริง
