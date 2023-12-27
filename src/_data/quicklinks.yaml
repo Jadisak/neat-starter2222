@@ -1,17 +1,17 @@
 links:
-  - title: EVENT
-    url: /event
-    desc: Event Open source content management for your Git workflow
-  - title: VIDEO
-    url: /video
-    desc: Video Eleventy is a simpler static site generator.
   - title: GALLERY
-    url: /gallery
-    desc: A utility-first CSS framework for rapidly building custom designs.
+    url: "/gallery"
+    img: "/static/img/logo.svg"
+    desc: Open source content management for your Git workflow
+  - title: EVENT
+    url: "/event"
+    img: "/static/img/logo.svg"
+    desc: Eleventy is a simpler static site generator.
   - title: E-BOOK
-    url: /e-book
-    desc: E-Book minimal framework for composing JavaScript behavior in your markup.
-  - title: LICA TEAM
-    url: /team
-    desc: LICA-TEAM minimal framework for composing JavaScript behavior in your
-      markup.
+    url: "/e-book"
+    img: "/static/img/logo.svg"
+    desc: A minimal framework for composing JavaScript behavior in your markup.
+  - title: ADMIN
+    url: "/admin"
+    img: "/static/img/logo.svg"
+    desc: A utility-first CSS framework for rapidly building custom designs.
