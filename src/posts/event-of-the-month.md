@@ -8,4 +8,4 @@ tags:
 ---
 # Neat Starter
 
-Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind CSS
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam maiores ex, fugiat nemo officiis, aspernatur nobis animi velit aut ullam sequi optio soluta voluptatem esse. Quod deleniti tempora maxime expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam maiores ex, fugiat nemo officiis, aspernatur nobis animi velit aut ullam sequi optio soluta voluptatem esse. Quod deleniti tempora maxime expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit.
