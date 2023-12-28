@@ -3,13 +3,13 @@
     {% if quicklinks.links %}
 
         {% for item in quicklinks.links %}
-            <a href="{{item.url}}" target="" class="bg-gray-400 rounded-2xl overflow-hidden">
+            <a href="{{item.url}}" target="" class="bg-amber-500 rounded-2xl overflow-hidden">
                 <div class="flex gap-0 items-center">
                     <div class="flex-1 px-4"> 
                         <h3>{{item.title}} <span class="text-base text-white/70">→</span></h3>
                         <p class="">{{item.desc}}</p>
                     </div>
-                    <div class="bg-gray-400 overflow-hidden">
+                    <div class=" overflow-hidden">
                         <img src="{{item.img}}" alt="" class="w-64 h-72 hover:scale-105 duration-500 object-cover object-center">
                     </div>
                 </div>
