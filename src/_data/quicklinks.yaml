@@ -1,21 +1,21 @@
 links:
   - title: GALLERY
     url: "/gallery"
-    img: "./static/img/01.jpeg"
+    img: "./static/img/08.jpeg"
     desc: Open source content management for your Git workflow
   - title: EVENT
     url: "/event"
-    img: "./static/img/02.jpeg"
+    img: "./static/img/09.jpeg"
     desc: Eleventy is a simpler static site generator.
   - title: E-BOOK
     url: "/e-book"
-    img: "./static/img/03.jpeg"
+    img: "./static/img/10.jpeg"
     desc: A minimal framework for composing JavaScript behavior in your markup.
   - title: ADMIN
     url: "/admin"
-    img: "./static/img/04.jpeg"
+    img: "./static/img/11.jpeg"
     desc: A utility-first CSS framework for rapidly building custom designs.
   - title: CONTACT
     url: "/contact"
-    img: "./static/img/05.jpeg"
+    img: "./static/img/12.jpeg"
     desc: A utility-first CSS framework for designs.
