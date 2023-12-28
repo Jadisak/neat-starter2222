@@ -1,7 +1,9 @@
 items:
-  - text: HOME
-    url: /
-  - text: ABOUT
-    url: /blog
-  - text: CONTACT
-    url: /contact
+  - text: Home
+    url: "/"
+  - text: About
+    url: "/"
+  - text: Works
+    url: "/blog"
+  - text: Member
+    url: "/"
