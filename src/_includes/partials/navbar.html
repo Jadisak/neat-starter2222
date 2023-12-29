@@ -1,9 +1,14 @@
+<<<<<<< Updated upstream
 <div class="bg-amber-300 w-full h-12 mb-16">
     <nav class="flex items-center justify-center border md:justify-between flex-wrap p-2 lg:px-0 container mx-auto" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
+=======
+<div class="bg-amber-300 w-full h-16 mb-16">
+    <nav class="flex items-center justify-center md:justify-between flex-wrap p-2 lg:px-0 container mx-auto z-50" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
+>>>>>>> Stashed changes
         <!--Logo etc-->
-        <div class="flex items-center h-20">
+        <div class="flex items-center h-12">
             <a href="/" class="text-indigo-500 font-bold text-lg">
-                <img src="/static/img/logo.svg" alt="Lica Academy">
+                <img src="/static/img/logo.svg" alt="Lica Academy" class="h-24">
             </a>
         </div>
 
@@ -16,17 +21,18 @@
         </button>
 
         <!--Menu-->
-        <div class="xw-full flex-grow lg:flex lg:items-center lg:w-auto text-center z-50 border" :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true">
+        <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto text-center z-20" :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true">
 
             {% if navigation.items %}
 
-                <ul class="px-32 pt-12 border bg-amber-300/80 rounded-2xl list-reset lg:flex justify-end flex-1 items-center">
+                <ul class="pt-2 lg:pt-0 list-reset lg:flex justify-end flex-1 items-center">
                     {% for item in navigation.items %}
-                        <li class="nav__item mr-3">
-                            <a @click="isOpen = false" class="text-ml inline-block text-orange-500 no-underline hover:text-indigo-500 py-2 px-4" href="{{ item.url }}">{{ item.text }}</a>
+                        <li class="nav__item my-2 w-1/2 mx-auto bg-amber-300">
+                            <a @click="isOpen = false" class="text-ml inline-block text-red-500 no-underline hover:text-gray-500 pt-2 pb-1 px-5" href="{{ item.url }}">{{ item.text }}</a>
                         </li>
                     {% endfor %}
                 </ul>
+
             {% endif %}
         </div>
     </nav>
