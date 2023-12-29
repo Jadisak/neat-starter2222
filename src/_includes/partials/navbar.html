@@ -20,10 +20,10 @@
 
             {% if navigation.items %}
                
-                <ul class="space-y-4 list-reset lg:flex justify-end flex-1 items-center">
+                <ul class="list-reset lg:flex justify-end flex-1 items-center">
                     {% for item in navigation.items %}
                         <li class="nav__item">
-                            <a @click="isOpen = false" class="text-ml inline-block text-orange-500 no-underline hover:text-indigo-500 pt-2 pb-1.5 px-16 border rounded-full bg-amber-300" href="{{ item.url }}">{{ item.text }}</a>
+                            <a @click="isOpen = false" class="text-ml inline-block text-orange-500 no-underline hover:text-indigo-500 pt-2 pb-1.5 w-1/2 border rounded-full bg-amber-300 space-y-4" href="{{ item.url }}">{{ item.text }}</a>
                         </li>
                     {% endfor %}
                 </ul>
