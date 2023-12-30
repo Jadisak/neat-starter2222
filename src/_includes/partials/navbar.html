@@ -1,5 +1,5 @@
-<div class="bg-amber-300 w-full h-16 mb-16">
-    <nav class="flex items-center justify-center md:justify-between flex-wrap p-2 lg:px-0 container mx-auto z-50" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
+<div class="bg-amber-300 w-full h-12 z-50 top-6 fixed">
+    <nav class="flex items-center justify-center md:justify-between flex-wrap p-0 lg:px-0 max-w-6xl mx-auto drop-shadow-md md:drop-shadow-none" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
         <!--Logo etc-->
         <div class="flex items-center h-12">
             <a href="/" class="text-indigo-500 font-bold text-lg -top-6 absolute">
@@ -16,13 +16,13 @@
         </button>
 
         <!--Menu-->
-        <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto text-center duration-700 z-20" :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true">
+        <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto text-center rounded-2xl" :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true">
 
             {% if navigation.items %}
 
-                <ul class="list-reset pt-2 lg:pt-0 lg:flex lg:justify-end flex-1 items-center">
+                <ul class="list-reset lg:pt-0 lg:flex lg:justify-end flex-1 items-center">
                     {% for item in navigation.items %}
-                        <li class="nav__item my-1 w-1/2 lg:w-fit mx-auto lg:mx-0 bg-amber-300 xborder">
+                        <li class="nav__item my-0.5 w-1/2 lg:w-fit mx-auto lg:mx-0 bg-amber-300 xborder">
                             <a @click="isOpen = false" class="text-ml inline-block text-red-500 no-underline hover:text-gray-500 pt-2 pb-1 px-5" href="{{ item.url }}">{{ item.text }}</a>
                         </li>
                     {% endfor %}
