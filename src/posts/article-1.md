@@ -1,7 +1,7 @@
 ---
 title: 1. คาดการณ์การเงินในอนาคต
 description: ประกันชีวิตช่วยในการคาดการณ์ และบรรเทาภาระการเงิน
-author: กำเนิด
+author: Suphat
 date: 2023-12-28T03:52:07.290Z
 img: /static/img/09.jpeg
 tags:
