@@ -10,7 +10,7 @@ tags:
 
 ธุรกิจประกันชีวิตมักจะใช้เงินทุนที่มาจากการเสนอประกันชีวิตเพื่อลงทุน โดยการคาดเดา และการบริหารการลงทุน ที่มีเหตุผลสามารถช่วยให้บริษัทประกันชีวิต มีความเสถียรภาพทางการเงิน และสามารถจ่ายเงินตอบแทนให้กับผู้เอาประกันได้อย่างมั่นคง
 
-![การคาดการณ์](/static/img/11.jpeg "การคาดการณ์")
+![การคาดการณ์](/static/img/11.jpeg "การลงทุน")
 
 <div class="max-w-3xl text-base md:text-lg text-amber-700 mx-auto p-6 border-x-2 columns-1 md:columns-2">
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum aliquam fugiat ab ratione optio dolorem cumque tenetur quas enim sint doloremque accusantium magnam, dicta sed ut cum deserunt? Optio quis fuga cupiditate.</p>
